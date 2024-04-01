@@ -1,0 +1,19 @@
+{
+    "name": "Game.UI.Cursor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c05688badc2466243af4cd078dce71da",
+        "GUID:8c8a8b11926803842a8a5dc41eed7458",
+        "GUID:17f44bc606552d748a437b657f6d10af",
+        "GUID:5448f0d6e8c7f6545b47bca45e807f57"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

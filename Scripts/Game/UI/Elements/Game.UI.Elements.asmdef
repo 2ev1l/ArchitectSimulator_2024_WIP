@@ -1,0 +1,26 @@
+{
+    "name": "Game.UI.Elements",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c05688badc2466243af4cd078dce71da",
+        "GUID:8c8a8b11926803842a8a5dc41eed7458",
+        "GUID:836ab54c579345c4aa978e6dca8b50ae",
+        "GUID:45864171a08306d4784d9c0cec1b2b25",
+        "GUID:9dd390bece36f7e4aad4aa34fd27322d",
+        "GUID:0bafb330e3f33b84487095f0705e4847",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:d28e236f83a6dd64b9f7695ed022ba0b",
+        "GUID:138bb3f4eeecc434999c9652f5585481",
+        "GUID:5448f0d6e8c7f6545b47bca45e807f57",
+        "GUID:d0a7aadf6a781304cba62ba0fe4476ad"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

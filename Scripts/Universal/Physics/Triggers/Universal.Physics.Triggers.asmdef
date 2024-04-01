@@ -1,0 +1,19 @@
+{
+    "name": "Universal.Physics.Triggers",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c05688badc2466243af4cd078dce71da",
+        "GUID:836ab54c579345c4aa978e6dca8b50ae",
+        "GUID:0bafb330e3f33b84487095f0705e4847",
+        "GUID:437ab9eb0c861394fb4f50e6b75b2a2a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

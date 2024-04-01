@@ -1,0 +1,19 @@
+{
+    "name": "Game.Serialization.Settings.Input",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c05688badc2466243af4cd078dce71da",
+        "GUID:8c8a8b11926803842a8a5dc41eed7458",
+        "GUID:0bafb330e3f33b84487095f0705e4847",
+        "GUID:13edc8324cf29ea4da10f8a30efa7ed3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

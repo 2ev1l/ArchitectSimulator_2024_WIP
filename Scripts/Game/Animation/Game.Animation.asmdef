@@ -1,0 +1,22 @@
+{
+    "name": "Game.Animation",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c05688badc2466243af4cd078dce71da",
+        "GUID:836ab54c579345c4aa978e6dca8b50ae",
+        "GUID:45864171a08306d4784d9c0cec1b2b25",
+        "GUID:0bafb330e3f33b84487095f0705e4847",
+        "GUID:8c8a8b11926803842a8a5dc41eed7458",
+        "GUID:5448f0d6e8c7f6545b47bca45e807f57",
+        "GUID:17f44bc606552d748a437b657f6d10af"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
